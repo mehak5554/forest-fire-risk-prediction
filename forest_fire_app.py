@@ -45,7 +45,7 @@ h1, h2, h3 {
 # Title
 st.image(
     "https://images.unsplash.com/photo-1448375240586-882707db888b",
-    use_container_width=True
+     width="stretch"
 )
 st.markdown("""
 # 🌲 Forest Fire Risk Prediction System
